@@ -1,0 +1,39 @@
+
+body{
+    font-family: 'Viner Hand ITC', sans-serif;
+    color:white;
+    background-color: rgba(230, 84, 97, 0.959);
+}
+h1{
+    text-align: center;
+    border: solid black;
+    background-color:rgb(10, 10, 107) ;
+}
+h2{
+    border: solid black;
+    background-color:rgb(10, 10, 107) ;
+}
+div#founder{
+    width: 200px;
+   
+}
+div#founderinfo{
+    width: 200px;
+    border: solid black;
+    background-color:rgb(10, 10, 107) ;
+    margin-top: 10px;
+}
+
+p#aboutus{
+    border: solid black;
+    background-color:rgb(10, 10, 107) ;
+    float: right;
+    position: absolute;
+    left: 250px;
+    bottom: 100px;
+}
+h6{
+    float: right;
+    border: solid black;
+    background-color:rgb(10, 10, 107) ;
+}
