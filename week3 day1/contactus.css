@@ -1,0 +1,26 @@
+html{
+    font-family: 'Viner Hand ITC', sans-serif;
+    color:white;
+    background-color: rgba(230, 84, 97, 0.959);
+}
+p{
+    text-align: center;
+    border: solid black;
+    background-color:rgb(10, 10, 107) ;
+    font-size: 4em;
+}
+
+  
+  /* On screens that are 992px or less, set the background color to blue */
+  @media screen and (max-width: 992px) {
+    body {
+      background-color: rgb(10, 10, 107);
+    }
+  }
+  
+  /* On screens that are 600px or less, set the background color to olive */
+  @media screen and (max-width: 600px) {
+    body {
+      background-color: rgb(10, 10, 107);
+    }
+    }

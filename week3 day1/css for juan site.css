@@ -1,0 +1,160 @@
+
+body{
+    font-family: 'Viner Hand ITC', sans-serif;
+    color:white;
+    background-color: rgba(230, 84, 97, 0.959);
+}
+h1{
+    text-align: center;
+    border: solid black;
+    background-color:rgb(10, 10, 107) ;
+}
+h3.a{
+    text-align: left;
+    border: solid black;
+}
+h3.b{
+    text-align: center;
+    float: right;
+}
+h3.c{
+    text-align: right;
+}
+
+nav.horizontal ul li {
+    background-color: rgb(10, 10, 107);
+    display: block;
+    font-size: 20px;
+    
+    line-height: 30px;
+    height: 30px;
+    border: solid black;
+    text-align:center;
+ }
+ 
+ nav.horizontal a {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+ }
+    
+ nav.horizontal a:link, nav.horizontal:visited {
+    color: rgb(255, 255, 255);
+ }
+ 
+ nav.horizontal a:hover, nav.horizontal:active {
+    background-color: rgb(255, 255, 255);}
+    h2.buynow{
+text-align:center;
+border: solid black;
+background-color: rgb(10, 10, 107);
+    }
+    nav.horizontal ul li a{
+        color: white;
+    }
+img{
+    width: 1700px;
+    height: 200px;
+
+}
+
+table th.th1{
+    border:solid black;
+    float: left;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-size: 2em;
+}
+table th.th2{
+    border:solid black;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-size: 2em;
+}
+
+table th.th3{
+    border:solid black;
+    float: right;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-size: 2em;
+}
+tbody{
+    float: none;
+}
+
+
+th#small{
+    border-color: black;
+    border: solid black;
+    font-size: 4em;
+    position: absolute;
+    left: 75px;
+    background-color: rgb(10, 10, 107);
+}
+th#medium{
+    border-color: black;
+    border: solid black;
+    font-size: 4em;
+    position: absolute;
+    left: 600px;
+    background-color: rgb(10, 10, 107);
+}
+th#large{
+    border-color: black;
+    border: solid black;
+    font-size: 4em;
+    position: absolute;
+    left: 1200px;
+    background-color: rgb(10, 10, 107);
+}
+
+th#small1{
+    border-color: black;
+    border: solid black;
+    font-size: 1em;
+    position: absolute;
+    bottom: 200px;
+    left: 75px;
+    background-color: rgb(10, 10, 107);
+}
+th#medium1{
+    border-color: black;
+    border: solid black;
+    font-size: 1em;
+    position: absolute;
+    bottom: 200px;
+    left: 600px;
+    background-color: rgb(10, 10, 107);
+}
+th#large1{
+    border-color: black;
+    border: solid black;
+    font-size: 1em;
+    position: absolute;
+    bottom: 200px;
+    left: 1200px;
+    background-color: rgb(10, 10, 107);
+}
+  div#payment{
+      border-color: black;
+      border: solid black;
+      background-color: rgb(10, 10, 107);
+      position: absolute;
+      bottom: 50px;
+  }
+  div#age{
+    border-color: black;
+    border: solid black;
+    background-color: rgb(10, 10, 107);
+    position: absolute;
+    bottom: 50px;
+    left: 300px;
+}
+  

@@ -1,0 +1,26 @@
+html{
+    font-family: 'Viner Hand ITC', sans-serif;
+    color:white;
+    background-color: rgba(230, 84, 97, 0.959);
+}
+h1{
+    text-align: center;
+    border-color: black;
+    border: solid black;
+    background-color:rgb(10, 10, 107) ;
+}
+ol{
+    text-align: center;
+    border-color: black;
+    border: solid black;
+    background-color:rgb(10, 10, 107) ;  
+}
+img{
+    
+    width: 1500px;
+    border-color: black;
+    border: solid black;
+    background-color:rgb(10, 10, 107);
+    border-width: 10px;
+
+}
