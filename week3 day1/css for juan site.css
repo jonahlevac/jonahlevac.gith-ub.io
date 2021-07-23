@@ -1,4 +1,5 @@
 
+@import url('https://fonts.googleapis.com/css2?family=Qahiri&display=swap');
 body{
     font-family: 'Viner Hand ITC', sans-serif;
     color:white;
@@ -157,4 +158,7 @@ th#large1{
     bottom: 50px;
     left: 300px;
 }
+h6{
+    font-family: 'Qahiri', sans-serif;
+  }
   
